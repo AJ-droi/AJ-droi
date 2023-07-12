@@ -22,15 +22,16 @@ Hi there, my name is AJ-droi and I'm excited to have you here on my GitHub profi
 Here are a few of my favorite projects that I've worked on recently:
 
 
-  <li> <a href="https://smoozepro.netlify.app" target="_blank> Smooze App </a> </li>
-  <li> React Azure: <a href="https://reactt-azure.azurewebsites.net" target="_blank"> </a></li>
-  <li> The Gathering: <a href="https://thegathering.com.ng" target="_blank>/a> </li>
+  <li> Smooze App : https://smoozepro.netlify.app </li>
+  <li> React Azure: https://reactt-azure.azurewebsites.net</li>
+  <li> The Gathering: https://thegathering.com.ng </li>
+  <li> BlackBritishWomenExist: https://blackbritishwomenexist.com </li>
 
 <h3>Skills </h3>
 
 Here are some of the skills that I bring to the table:
 
-<li>Front-end development: using HTML, CSS, JavaScript, React, and NextJs</li>
+<li>Front-end development: using HTML, CSS, JavaScript, React, VueJs and NextJs</li>
 <li>Back-end development using Node.js and Typescript.</li>
 <li>Database design and management using MySQL, MongoDB, Sqlite, Postgresql and Firebase </li>
 <li>DevOps using AWS, Azure and Docker</li>
