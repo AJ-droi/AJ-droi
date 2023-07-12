@@ -24,7 +24,7 @@ Here are a few of my favorite projects that I've worked on recently:
 
   <li> Smooze App: https://smoozepro.netlify.app </li>
   <li> React Azure: https://reactt-azure.azurewebsites.net/ </li>
-  <li> The Gathering: https://thegathering.netlify.app </li>
+  <li> The Gathering: https://thegathering.com.ng </li>
 
 <h3>Skills </h3>
 
