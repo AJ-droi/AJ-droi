@@ -22,9 +22,9 @@ Hi there, my name is AJ-droi and I'm excited to have you here on my GitHub profi
 Here are a few of my favorite projects that I've worked on recently:
 
 
-  <li> Smooze App: https://smoozepro.netlify.app </li>
-  <li> React Azure: https://reactt-azure.azurewebsites.net/ </li>
-  <li> The Gathering: https://thegathering.com.ng </li>
+  <li> <a href="https://smoozepro.netlify.app" target="_blank> Smooze App </a> </li>
+  <li> React Azure: <a href="https://reactt-azure.azurewebsites.net" target="_blank"> </a></li>
+  <li> The Gathering: <a href="https://thegathering.com.ng" target="_blank>/a> </li>
 
 <h3>Skills </h3>
 
