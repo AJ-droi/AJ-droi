@@ -26,6 +26,7 @@ Here are a few of my favorite projects that I've worked on recently:
   <li> React Azure: https://reactt-azure.azurewebsites.net</li>
   <li> The Gathering: https://thegathering.com.ng </li>
   <li> BlackBritishWomenExist: https://blackbritishwomenexist.com </li>
+  <li> BlackWomenExistBusinessApp: https://www.blackwomenexistbusinessapp.com/ </li>
 
 <h3>Skills </h3>
 
