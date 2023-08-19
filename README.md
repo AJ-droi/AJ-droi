@@ -33,9 +33,9 @@ Here are a few of my favorite projects that I've worked on recently:
 Here are some of the skills that I bring to the table:
 
 <li>Front-end development: using HTML, CSS, JavaScript, React, VueJs and NextJs</li>
-<li>Back-end development using Node.js and Typescript.</li>
+<li>Back-end development using Node.js, Typescript and graphql.</li>
 <li>Database design and management using MySQL, MongoDB, Sqlite, Postgresql and Firebase </li>
-<li>DevOps using AWS, Azure and Docker</li>
+<li>DevOps using AWS, Azure, Digital Ocean and Docker</li>
 <br>
 
 👯 I’m looking to collaborate on more open source projects.
