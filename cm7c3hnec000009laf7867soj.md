@@ -1,7 +1,7 @@
 ---
 title: "3 Key Skills Every Full-Stack Developer Needs in 2025"
 seoTitle: "3 Key Skills Every Full-Stack Developer Needs in 2025"
-seoDescription: "full-stack developers in 2025 "
+seoDescription: "full-stack developers in 2025"
 datePublished: Wed Feb 19 2025 15:55:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm7c3hnec000009laf7867soj
 slug: 3-key-skills-every-full-stack-developer-needs-in-2025
